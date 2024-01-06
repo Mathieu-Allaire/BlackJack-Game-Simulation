@@ -10,4 +10,4 @@ Any IDE that supports Python can run the code.
 
 
 ## Link to the code
-[See Code] (https://github.com/Mathieu-Allaire/BlackJack-Game-Simulation/blob/main/Blackjack.ipynb)
+[See Code](https://github.com/Mathieu-Allaire/BlackJack-Game-Simulation/blob/main/Blackjack.ipynb)

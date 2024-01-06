@@ -12,4 +12,4 @@ For an easy visualization of the code, I recommend using [Google Collab](https:/
 
 
 ## Link to the code
-[See Code](https://github.com/Mathieu-Allaire/BlackJack-Game-Simulation/blob/main/Blackjack.ipynb)
+[See Code](https://github.com/Mathieu-Allaire/BlackJack-Game-Simulation/blob/main/Blackjack.py)

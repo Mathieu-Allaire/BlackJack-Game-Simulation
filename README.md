@@ -6,7 +6,8 @@ In this side project a friend and I analyzed the probability of winning a game o
 </p>
 
 ## Recommended IDE Setup
-Any IDE that supports Python can run the code.
+Any IDE that supports Python can run the code if the modules random, seaborn, pandas, numpy and matplotlib are properly installed beforehand.
+We used [Google Collab](https://colab.google/), a hosted Jupyter notebook service that requires no setup to use while providing access free of charge to computing resources including GPUs.
 
 
 ## Link to the code

@@ -4,3 +4,10 @@ In this side project a friend and I analyzed the probability of winning a game o
 <p align="center">
     <img src="https://user-images.githubusercontent.com/113075689/222923725-0ecadfe9-100b-44f9-9fb3-7402b5ad528a.png">
 </p>
+
+## Recommended IDE Setup
+Any IDE that supports Python can run the code.
+
+
+## Link to the code
+[See Code] (https://github.com/Mathieu-Allaire/BlackJack-Game-Simulation/blob/main/Blackjack.ipynb)

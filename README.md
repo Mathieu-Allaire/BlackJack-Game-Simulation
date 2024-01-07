@@ -12,4 +12,4 @@ For an easy visualization of the code, I recommend using [Google Collab](https:/
 
 
 ## Link to the code
-The full report containing the base models and each modificiation tried on the model can be found [here](https://github.com/Mathieu-Allaire/SIR-model/blob/main/SIR-model.ipynb)
+The full report containing the base models and each modificiation tried on the model can be found [here](https://github.com/Mathieu-Allaire/SIR-model/blob/main/SIR-model.ipynb).
